@@ -18,3 +18,6 @@ This repo is currently a work in progress as I figure out what works and doesn't
 * .vim and .vimrc
   * set up vim colour scheme for readonly files
 * .bash_profile
+
+## New System checklist
+* set up ssh key for github
