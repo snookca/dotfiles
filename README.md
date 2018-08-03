@@ -20,4 +20,4 @@ This repo is currently a work in progress as I figure out what works and doesn't
 * .bash_profile
 
 ## New System checklist
-* set up ssh key for github
+* set up ssh key for github [instructions](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
