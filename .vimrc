@@ -1,4 +1,4 @@
-set dir=~/.vim/swap/
+set dir=~/dotfiles/.vim/swap/
 
 set guifont=Dank\ Mono:h14
 set number
@@ -31,7 +31,7 @@ map <C-l> <leader>lj
 " let g:LustyJugglerSuppressRubyWarning = 1
 
 " load ctrl-p plugin
-set runtimepath^=~/.vim/bundle/ctrlp.vim
+set runtimepath^=~/bundle/ctrlp.vim
 let g:ctrlp_working_path_mode = ''
 
 syntax on
