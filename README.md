@@ -5,7 +5,6 @@ This repo is currently a work in progress as I figure out what works and doesn't
 
 ## To-do:
 * Install script for new system
-  * set up simlinks
   * install homebrew
   * brew install ruby
   * brew install sass/sass/sass (or should I use standalone install?)
@@ -14,12 +13,8 @@ This repo is currently a work in progress as I figure out what works and doesn't
   * Dank Mono
   * set up command prompt to recognize git repo
   * set up bash git autocomplete
-  * system prefs?
+
 * set up vim colour scheme for readonly files
-* .bash_profile
 
 ## New System checklist
 * set up ssh key for github [instructions](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-
-## Done
-* .vim and .vimrc committed
