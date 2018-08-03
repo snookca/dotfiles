@@ -31,8 +31,10 @@ map <C-l> <leader>lj
 " let g:LustyJugglerSuppressRubyWarning = 1
 
 " load ctrl-p plugin
-set runtimepath^=~/bundle/ctrlp.vim
-let g:ctrlp_working_path_mode = ''
+set runtimepath^=~/dotfiles/bundle/ctrlp.vim
+let g:ctrlp_working_path_mode = 'ra'
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
 
 syntax on
 filetype on
