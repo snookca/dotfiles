@@ -15,9 +15,11 @@ This repo is currently a work in progress as I figure out what works and doesn't
   * set up command prompt to recognize git repo
   * set up bash git autocomplete
   * system prefs?
-* .vim and .vimrc
-  * set up vim colour scheme for readonly files
+* set up vim colour scheme for readonly files
 * .bash_profile
 
 ## New System checklist
 * set up ssh key for github [instructions](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+
+## Done
+* .vim and .vimrc committed
